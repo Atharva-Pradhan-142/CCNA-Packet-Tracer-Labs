@@ -16,4 +16,4 @@ Built by Atharva Pradhan as part of hands-on CCNA lab practice.
 Each lab folder includes the topology diagram, the `.pkt` file, 
 and a README with addressing scheme, configs, and verification steps.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/atharvapradhan-) 
+**Connect:** [LinkedIn](https://www.linkedin.com/in/atharva-pradhan-) 
