@@ -170,8 +170,8 @@ network 192.168.4.0 0.0.0.255 area 0
 network 192.168.5.0 0.0.0.255 area 0
 
 ## Verification
-- [ ] VTP propagated VLANs from Switch0 to Switch1 and Switch2 (`show vtp status`)
-- [ ] EtherChannel formed successfully between Switch0 and Switch1 (`show etherchannel summary`)
+- [x] VTP propagated VLANs from Switch0 to Switch1 and Switch2 (`show vtp status`)
+- [x] EtherChannel formed successfully between Switch0 and Switch1 (`show etherchannel summary`)
 - [ ] All VLANs can ping their gateway
 - [ ] Inter-VLAN routing confirmed (VLAN 10 ↔ VLAN 20 ↔ VLAN 30)
 - [ ] DHCP clients successfully lease IPs from Server0 across the Router0–Router1 link
