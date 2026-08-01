@@ -6,7 +6,7 @@ EtherChannel for redundant inter-switch links, and Router-on-a-Stick for
 inter-VLAN routing — with DHCP served from a centralized server across a second router, using OSPF for dynamic routing between Router0 and Router1.
 
 ## Topology
-![Topology](topology.png)
+![Topology](Topology.png)
 
 - **Router0 (ISR4331)** — subinterfaces for VLAN 10/20/30, Router-on-a-Stick config, DHCP relay
 - **Router1 (ISR4331)** — connects Router0 to the DHCP server subnet
