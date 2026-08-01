@@ -65,7 +65,7 @@ inter-VLAN routing — with DHCP served from a centralized server across a secon
 
 ### Switch0 (VTP Server + EtherChannel to Switch1)
 
-vtp domain abc.com
+vtp domain abc.com 
 vtp password 123
 vtp mode server
 
