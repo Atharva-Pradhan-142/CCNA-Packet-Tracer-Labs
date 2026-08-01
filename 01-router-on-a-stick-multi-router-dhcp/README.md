@@ -172,10 +172,10 @@ network 192.168.5.0 0.0.0.255 area 0
 ## Verification
 - [x] VTP propagated VLANs from Switch0 to Switch1 and Switch2 (`show vtp status`)
 - [x] EtherChannel formed successfully between Switch0 and Switch1 (`show etherchannel summary`)
-- [ ] All VLANs can ping their gateway
-- [ ] Inter-VLAN routing confirmed (VLAN 10 ↔ VLAN 20 ↔ VLAN 30)
-- [ ] DHCP clients successfully lease IPs from Server0 across the Router0–Router1 link
-- [ ] End-to-end reachability from VLAN hosts to Server0
+- [x] All VLANs can ping their gateway
+- [x] Inter-VLAN routing confirmed (VLAN 10 ↔ VLAN 20 ↔ VLAN 30)
+- [x] DHCP clients successfully lease IPs from Server0 across the Router0–Router1 link
+- [x] End-to-end reachability from VLAN hosts to Server0
 
 ## Skills Demonstrated
 VTP (server/client modes), VLAN propagation, EtherChannel/port-channel 
