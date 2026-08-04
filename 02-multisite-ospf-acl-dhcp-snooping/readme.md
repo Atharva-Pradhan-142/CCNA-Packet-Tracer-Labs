@@ -155,8 +155,8 @@ channel-group 1 mode active
 - [x] Dynamic ARP Inspection trusted on server-facing port
 - [x] Port security with sticky MAC configured on the server's switch port
 - [x] EtherChannel (LACP, `channel-group 1 mode active`) configured between Router2's switches
-- [ ] End-to-end ping test confirming Sales → Server allowed (HTTP + ICMP only)
-- [ ] End-to-end ping test confirming HR → Server blocked
+- [x] End-to-end ping test confirming Sales → Server allowed (HTTP + ICMP only)
+- [x] End-to-end ping test confirming HR → Server blocked
 
 ## Skills Demonstrated
 Multi-router OSPF over serial WAN links, VLSM subnetting design, DHCP 
