@@ -11,7 +11,7 @@ switches run DHCP Snooping, Dynamic ARP Inspection, and Port Security to
 protect the edge.
 
 ## Topology
-![Topology](topology.png)
+![Topology](topology.webp)
 
 - **R1 (ISR4331, Branch)** — Router-on-a-Stick for VLANs 10/20/30/40/50,
   per-VLAN DHCP server, NAT overload (PAT) to Head Office, OSPF, extended
