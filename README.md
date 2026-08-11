@@ -12,6 +12,7 @@ hardening.
 | 01 | [Router-on-a-Stick Multi-Router DHCP](./01-router-on-a-stick-multi-router-dhcp) | Router-on-a-Stick, trunking, inter-VLAN routing, DHCP |
 | 02 | [Multi-Site OSPF, VLSM, ACL & DHCP Snooping](./02-multisite-ospf-acl-dhcp-snooping) | OSPF, VLSM subnetting, ACLs, DHCP snooping, DAI, port security, EtherChannel |
 | 03 | [Multi-Router OSPF, Router-on-a-Stick & EtherChannel](./03-multirouter-ros-etherchannel-telnet) | Router-on-a-Stick, OSPF, EtherChannel, DHCP relay, Telnet |
+| 04 | [vlsm-nat-acl-port-security-aaa](./04-vlsm-nat-acl-port-security-aaa) | Secure Branch Office Network — Router-on-a-Stick, OSPF, NAT Overload, ACL Filtering, AAA (TACACS+) & Port Security |
 
 ## About
 Built by Atharva Pradhan as part of hands-on CCNA lab practice. 
