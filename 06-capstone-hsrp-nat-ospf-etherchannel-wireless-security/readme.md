@@ -12,7 +12,7 @@ Port Security, with EtherChannel and tuned STP root bridges keeping the
 switch mesh loop-free.
 
 ## Topology
-![Topology](topology.png)
+![Topology](topology.jpeg)
 
 - **Router0 & Router2 (ISR4331)** — HSRP pair on the `10.0.0.64/28`
   segment (virtual IP `.78`); Router0 additionally performs NAT
